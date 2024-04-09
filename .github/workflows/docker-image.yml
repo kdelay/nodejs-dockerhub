@@ -27,4 +27,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: kdelay/nodejs-github-action:${{ env.CURRENT_TIME }}
+        tags: kdelay2000/nodejs-github-action:${{ env.CURRENT_TIME }}
